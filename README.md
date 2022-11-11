@@ -1,4 +1,4 @@
-# :construction: README em construção ! :construction:
+### O desafio consistia em fazer consultas, usando SQL, a um banco de dados chamado Northwind
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
